@@ -22,25 +22,25 @@ JATE (Just Another Text Editor) is a progressive web application (PWA) designed 
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   \`\`\`bash
+   ```
    git clone https://github.com/alangille01/JATE.git
    cd JATE
-   \`\`\`
+    ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```
    npm install
-   \`\`\`
+   ```
 
 3. Build the application:
-   \`\`\`bash
+   ```
    npm run build
-   \`\`\`
+   ```
 
 4. Start the development server:
-   \`\`\`bash
+   ```
    npm start
-   \`\`\`
+   ```
 
 ## Usage
 
