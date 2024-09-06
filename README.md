@@ -55,7 +55,13 @@ Deployed Link on Render:  https://jate-07at.onrender.com
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+![image](https://github.com/user-attachments/assets/97eb6e5b-5b3b-44ea-8161-b52b73c49ca7)
+
+![image](https://github.com/user-attachments/assets/0f675980-ed59-4e2d-9377-517ede77f0ee)
+
+![image](https://github.com/user-attachments/assets/14982ab7-36a5-4fdb-bcf0-80b0406da642)
+
+![image](https://github.com/user-attachments/assets/657985dd-44d1-4c5c-be08-ad9e30e630db)
 
 ## Technologies
 
@@ -66,16 +72,6 @@ Deployed Link on Render:  https://jate-07at.onrender.com
 - IndexedDB
 - Service Workers
 - PWA Manifest
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (\`git checkout -b feature-branch\`).
-3. Commit your changes (\`git commit -m 'Add new feature'\`).
-4. Push to the branch (\`git push origin feature-branch\`).
-5. Open a Pull Request.
 
 ## License
 
